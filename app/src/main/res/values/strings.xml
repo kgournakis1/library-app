@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Virtual Library</string>
+    <string name="textview">TextView</string>
+    <string name="whiselist">Whiselist</string>
+    <string name="library">Library</string>
+    <string name="settings">Settings</string>
+    <string name="whishlist">Whishlist</string>
+    <string name="txt1">Η βιβλιοθήκη σου είναι άδεια !</string>
+</resources>
