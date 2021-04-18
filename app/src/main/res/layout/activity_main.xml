@@ -19,8 +19,16 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Button"
-            android:translationX="160"
-            android:translationY="420" />
+            android:translationX="160dp"
+            android:translationY="420dp" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="86dp"
+            android:layout_height="37dp"
+            android:text="TextView"
+            android:translationX="160dp"
+            android:translationY="300dp"/>
     </FrameLayout>
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
